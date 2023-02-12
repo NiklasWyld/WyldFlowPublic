@@ -1,9 +1,7 @@
 # WyldFlow
 
-Ein Projekt Management System
+A Project Management System
 
-Mit WyldFlow hat man endlich eine Projektmanagementlösung, der man vertrauen kann! Unsere Plattform bietet eine einfache und intuitive Möglichkeit, Projekte effektiv zu verwalten und zu verfolgen. Aber das ist nicht alles. WyldFlow nimmt Sicherheit und Datenschutz sehr ernst. Daten werden bei uns sicher gespeichert und nur nach höchsten Standards geschützt. 
-Darüber hinaus ist WyldFlow sehr einfach zu bedienen. Unsere benutzerfreundliche Oberfläche ermöglicht es, Projekte schnell und effizient zu verwalten, ohne Zeit mit dem Erlernen komplexer Systeme zu verschwenden.
-Mit WyldFlow hat man die Kontrolle über Projekte und können sicherstellen, dass alles reibungslos läuft. 
+With WyldFlow, you finally have a project management solution you can trust! Our platform provides a simple and intuitive way to effectively manage and track projects. But that's not all. WyldFlow takes security and privacy very seriously. Data is stored securely with us and protected only to the highest standards. What's more, WyldFlow is very easy to use. Our user-friendly interface allows you to manage projects quickly and efficiently without wasting time learning complex systems. With WyldFlow, you have control over projects and can make sure everything runs smoothly.
 
-Unsere Plattform befindet sich noch in der Entwicklungsphase, aber wir werden bald die die Möglichkeit bieten, WyldFlow zu testen. Wenn Sie Interesse haben, unser Produkt auszuprobieren, oder Fragen haben, wenden Sie sich einfach an Niklas Wild unter niklasch1999@gmail.com.
+Our platform is still in the development phase, but we will soon be offering the opportunity to test WyldFlow. If you are interested in trying out our product or have any questions, just contact Niklas Wild at niklasch1999@gmail.com.
